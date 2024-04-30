@@ -1,0 +1,18 @@
+.text_main{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+    margin-top: 100px;
+}
+
+.box_text{
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    margin: auto;
+    padding: 3px 20px;
+    background-color: #393535;
+    border-bottom: 2px solid white;
+    margin-bottom: 30px;
+}
